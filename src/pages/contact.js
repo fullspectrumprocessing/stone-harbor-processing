@@ -11,6 +11,9 @@ const Contact = () => {
       </S.StyledTitle>
 
       <S.StyledDiv>
+        <ContactForm />
+      </S.StyledDiv>
+      <S.StyledDiv>
         <S.ContactWrap>
           <S.H2> Phone:</S.H2>
           <S.H3>
@@ -30,9 +33,6 @@ const Contact = () => {
           <S.H3>803 S 4th Street 1st Floor</S.H3>{' '}
           <S.H3> Philadelphia, PA 19147 </S.H3>
         </S.ContactWrap>
-      </S.StyledDiv>
-      <S.StyledDiv>
-        <ContactForm />
       </S.StyledDiv>
     </Layout>
   );

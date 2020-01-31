@@ -12,15 +12,16 @@ const StyledImg = styled(Img)`
   // display: flex;
   // align-self: center;
   // height: 100%;
-  max-height: 920px;
+  height: 920px;
+  position: relative;
 `;
 
 const Overlay = styled.div`
   position: absolute;
   z-index: 100;
   background-color: white;
-  opacity: 0.1;
-  height: 100%;
+  opacity: 0.2;
+  height: 860px;
   width: 100%;
   top: 0;
   left: 0;
@@ -91,6 +92,11 @@ const Button = styled.button`
   margin-top: 40px;
   border: none;
   border-radius: 2px;
+  &:hover {
+    background: black;
+    color: #e5c277;
+    border: 2px solid #e5c277;
+  }
 `;
 
 const StyledLink = styled(Link)`
@@ -103,7 +109,7 @@ const Index = ({ data }) => (
 
     <Wrapper>
       <StyledImg fluid={data.homeJson.gallery[5].image.childImageSharp.fluid} />
-      {/* <Overlay></Overlay> */}
+      <Overlay></Overlay>
       <HeroTextDiv>
         <HeaderText>
           Versatile Point-Of-Sale Systems that have flexible options, and
@@ -112,10 +118,10 @@ const Index = ({ data }) => (
       </HeroTextDiv>
       <Div>
         <P size="large">
-          The features of our POS systems allow you to track inventory and
-          sales, manage employees, grow customer relationships, and analyze
-          date. One of our dedicated sales reps will provide you with a system
-          that best fits your company’s needs.
+          Our POS systems allow you to track inventory and sales, manage
+          employees, grow customer relationships, and analyze data. One of our
+          dedicated sales reps will provide you with a system that best fits
+          your company’s needs.
           {/* Please, complete the contact
           section below for one of our reps to contact you directly. */}
           {/* {data.homeJson.content.childMarkdownRemark.rawMarkdownBody} */}

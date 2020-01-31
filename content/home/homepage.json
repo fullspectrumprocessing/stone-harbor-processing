@@ -2,7 +2,7 @@
   "title": "Home",
   "content": "intro.md",
   "logo": {
-    "image": "../images/gallery/shpLogo.png"
+    "image": "../images/gallery/SHPLogo.png"
   },
   "gallery": [{
     "title": "React Context",
@@ -29,7 +29,7 @@
   },
   {
     "title": "Black and White Bank",
-    "image": "../images/gallery/pos-background.jpg"
+    "image": "../images/gallery/POS.jpg"
   }
 
 ]

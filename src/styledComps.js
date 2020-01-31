@@ -12,13 +12,13 @@ export const H1 = styled.h1`
   text-shadow: 1px 1px 3px grey;
 `;
 export const H2 = styled.h2`
-  font-size: 35px;
+  font-size: 25px;
   font-weight: 400;
   text-shadow: 0.5px 1px 1px grey;
   margin-bottom: 10px;
 `;
 export const H3 = styled.address`
-  font-size: 25px;
+  font-size: 18px;
   display: inherit;
   font-weight: 200;
 `;
@@ -38,7 +38,7 @@ export const BDI = styled.bdi`
 export const StyledDiv = styled.section`
   display: flex;
   width: 75%;
-  flex-direction: column;
+  flex-direction: row;
   align-content: center;
   justify-content: center;
   margin: 0 auto;
@@ -66,7 +66,8 @@ export const Address = styled.address`
 `;
 export const ContactWrap = styled.div`
   margin: 20px 0;
-  padding: 10px 0;
+  padding: 10px 10px;
+ 
 `;
 
 const size = {
