@@ -92,3 +92,7 @@ export const device = {
   desktopM: `(max-width: ${size.desktopM})`,
   desktopL: `(max-width: ${size.desktopL})`,
 };
+
+export const Link = styled.a`
+  text-decoration: none;
+`;

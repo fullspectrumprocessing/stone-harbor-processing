@@ -15,11 +15,11 @@ const Policy = () => {
           <S.StyledDiv>
             <S.P>
               {' '}
-              Federal Recovery Operations and its subsidiaries (collectively,
-              “Federal Recovery Operations”,{' '}
-              <abbr title="Federal Recovery Operations">FRO</abbr>, “us”, “we”,
-              or “our”) are committed to maintaining your confidence and trust
-              as it relates to the privacy and usage of your information. Please
+              Stone Harbor Processing and its subsidiaries (collectively, “Stone
+              Harbor Processing”,{' '}
+              <abbr title="Stone Harbor Processing">SHP</abbr>, “us”, “we”, or
+              “our”) are committed to maintaining your confidence and trust as
+              it relates to the privacy and usage of your information. Please
               read below and learn how we collect, protect, share, and use your
               information as part of our technology platforms, and all of our
               products and services.
@@ -27,7 +27,7 @@ const Policy = () => {
             <br />
             <S.P>
               This privacy policy applies to this site
-              https://www.federalrecoveryoperations.com
+              https://www.shprocessing.com
             </S.P>
           </S.StyledDiv>
 
@@ -116,11 +116,10 @@ const Policy = () => {
               <br /> */}
               <S.BDI>Network Partners</S.BDI>: In submitting an inquiry for a
               financial product or other service provided through this website,
-              you agree that{' '}
-              <abbr title="Federal Recovery Operations">FRO</abbr> may share
-              your Information with lenders and other third parties which
-              provide services to our consumers (including, for example, real
-              estate agents or debt relief companies) in our network
+              you agree that <abbr title="Stone Harbor Processing">SHP</abbr>{' '}
+              may share your Information with lenders and other third parties
+              which provide services to our consumers (including, for example,
+              real estate agents or debt relief companies) in our network
               (collectively, “Network Partners”) to deliver the products and
               services you requested. PLEASE NOTE:the Network Partners with
               which you are matched may retain or use your Information whether
@@ -129,11 +128,11 @@ const Policy = () => {
               practices.
               <br />
               <S.BDI>
-                <abbr title="Federal Recovery Operations">FRO</abbr> Vendors
+                <abbr title="Stone Harbor Processing">SHP</abbr> Vendors
               </S.BDI>
               : We may share your Information with vendors that perform certain
               services on our behalf (“
-              <abbr title="Federal Recovery Operations">FRO</abbr> Vendors”)
+              <abbr title="Stone Harbor Processing">SHP</abbr> Vendors”)
               including, but not limited to, credit bureaus, marketing partners,
               or entities providing business analysis and/or website or product
               support.
@@ -156,17 +155,16 @@ const Policy = () => {
                   investigate, prevent, or take action regarding actual or
                   suspected illegal activity or other wrongdoing; to protect and
                   defend the rights, property, or safety of the{' '}
-                  <abbr title="Federal Recovery Operations">FRO</abbr> Business,
-                  our users, our employees, or others; or to enforce our Site’s
+                  <abbr title="Stone Harbor Processing">SHP</abbr> Business, our
+                  users, our employees, or others; or to enforce our Site’s
                   terms and condition or other agreements or policies.
                 </li>
                 <li>
                   {' '}
                   In connection with a substantial corporate transaction
-                  involving the{' '}
-                  <abbr title="Federal Recovery Operations">FRO</abbr>
+                  involving the <abbr title="Stone Harbor Processing">SHP</abbr>
                   Business, such as a sale of{' '}
-                  <abbr title="Federal Recovery Operations">FRO</abbr> or any
+                  <abbr title="Stone Harbor Processing">SHP</abbr> or any
                   entity, brand or division thereof, a divestiture, merger,
                   consolidation, asset sale, or bankruptcy.
                 </li>
@@ -175,10 +173,10 @@ const Policy = () => {
                   In connection with state and/or federal licensing requirements
                   regarding the reporting of Information contained in the
                   advance inquiries we receive from you. You authorize{' '}
-                  <abbr title="Federal Recovery Operations">FRO</abbr> to obtain
-                  any and all required information from the Network Partners you
+                  <abbr title="Stone Harbor Processing">SHP</abbr> to obtain any
+                  and all required information from the Network Partners you
                   were matched with in order for{' '}
-                  <abbr title="Federal Recovery Operations">FRO</abbr> to comply
+                  <abbr title="Stone Harbor Processing">SHP</abbr> to comply
                   with current laws and regulations as well as with any requests
                   from state or federal regulators. This information could
                   include, but is not necessarily limited to, the advance you
@@ -198,26 +196,21 @@ const Policy = () => {
               <S.BDI>Unsubscribe</S.BDI>:
               <br />
               If at any time you do not wish to receive communications from the{' '}
-              <abbr title="Federal Recovery Operations">FRO</abbr> Business, you
-              may email{' '}
-              <a href="mailto:unsubscribe@federalrecoveryoperations.com">
-                {' '}
-                FRO{' '}
-              </a>{' '}
-              to unsubscribe. There may be an unsubscribe link at the bottom of
+              <abbr title="Stone Harbor Processing">SHP</abbr> Business, you may
+              email <a href="mailto:unsubscribe@shprocessing.com"> SHP </a> to
+              unsubscribe. There may be an unsubscribe link at the bottom of
               emails sent from the{' '}
-              <abbr title="Federal Recovery Operations">FRO</abbr> Business.
+              <abbr title="Stone Harbor Processing">SHP</abbr> Business.
               <br />
               <S.BDI>Advertising on third party sites</S.BDI>:
               <br />
               We may use third-party tracking technology. This technology allows
               targeted advertisements to you from{' '}
-              <abbr title="Federal Recovery Operations">FRO</abbr> Business.
-              Some of these advertising companies may be networks that are
-              members of the Network Advertising Initiative which offers a
-              single location to opt out of ad targeting from member companies.
-              The opt-out is available at
-              http://optout.networkadvertising.org/#!/
+              <abbr title="Stone Harbor Processing">SHP</abbr> Business. Some of
+              these advertising companies may be networks that are members of
+              the Network Advertising Initiative which offers a single location
+              to opt out of ad targeting from member companies. The opt-out is
+              available at http://optout.networkadvertising.org/#!/
             </S.P>
           </S.StyledDiv>
           <S.StyledDiv>
@@ -228,19 +221,15 @@ const Policy = () => {
               the respective Site or service, you may have the ability to view
               or edit some of your Information online. If you have submitted a
               funding request with a{' '}
-              <abbr title="Federal Recovery Operations">FRO</abbr> Business, you
-              can update your personal information by contacting our Customer
-              Care Department at:
+              <abbr title="Stone Harbor Processing">SHP</abbr> Business, you can
+              update your personal information by contacting our Customer Care
+              Department at:
               <S.Address>
                 <br />
-                <S.A
-                  href="https://www.federalrecoveryoperations.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  info@www.federalrecovery.com
+                <S.A href="mailto:info@shprocessing.com">
+                  info@shprocessing.com
                 </S.A>{' '}
-                20 North 3rd St, Philadelphia, PA 19106.
+                803 S 4th St 1st Floor, Philadelphia, PA 19147
               </S.Address>
             </S.P>
           </S.StyledDiv>
@@ -264,7 +253,7 @@ const Policy = () => {
           <S.StyledDiv>
             <S.H2>Changes to This Privacy Policy</S.H2>
             <S.P>
-              <abbr title="Federal Recovery Operations">FRO</abbr> has the
+              <abbr title="Stone Harbor Processing">SHP</abbr> has the
               discretion to update this privacy policy at any time. When we do,
               we will revise the date at the bottom of this page. We encourage
               you to frequently check this page for any changes to stay informed
@@ -301,26 +290,25 @@ const Policy = () => {
 
           <S.StyledDiv>
             <S.H2>
-              Calls To and From{' '}
-              <abbr title="Fedral Recovery Operations">FRO</abbr>
+              Calls To and From <abbr title="Stone Harbor Processing">SHP</abbr>
             </S.H2>
             <S.P>
-              Calls to and from{' '}
-              <abbr title="Federal Recovery OPerations">FRO</abbr> may be
-              recorded and/or monitored for quality and training purposes.
+              Calls to and from <abbr title="Stone Harbor Processing">SHP</abbr>{' '}
+              may be recorded and/or monitored for quality and training
+              purposes.
             </S.P>
           </S.StyledDiv>
           <S.StyledDiv>
             <S.H2>
-              <abbr title="Federal Recoevery Operations">FRO</abbr> Uses Plaid
+              <abbr title="Stone Harbor Processing">SHP</abbr> Uses Plaid
               Technologies
             </S.H2>
             <S.P>
-              <abbr title="Federal Recovery Operations">FRO</abbr> uses Plaid
+              <abbr title="Stone Harbor Processing">SHP</abbr> uses Plaid
               Technologies, Inc. (“
               <abbr title="Plaid Technologies, Inc">Plaid</abbr>”) to gather End
               User’s data from financial institutions. By using our service, you
-              grant <abbr title="Federal Recovery Operations">FRO</abbr> and
+              grant <abbr title="Stone Harbor Processing">SHP</abbr> and
               <abbr title="Plaid Technologies, Inc">Plaid</abbr> the right, the
               power, and authority to act on your behalf to access and transmit
               your personal and financial information from the relevant
@@ -335,14 +323,14 @@ const Policy = () => {
             <S.H2>How To Contact Us</S.H2>
             <S.P>
               If you have any questions about this privacy policy, the practices
-              of any <abbr title="Federal Recovery Operations">FRO</abbr>{' '}
-              Business, or your dealings with an{' '}
-              <abbr title="Federal Recovery Operations">FRO</abbr> Business,
-              please contact us at:
+              of any <abbr title="Stone Harbor Processing">SHP</abbr> Business,
+              or your dealings with an{' '}
+              <abbr title="Stone Harbor Processing">SHP</abbr> Business, please
+              contact us at:
               <S.Address>
                 <br />
                 <S.P>Compliance Officer </S.P>
-                Federal Recovery Operations <br />
+                Stone Harbor Processing <br />
                 <S.P>
                   20 North 3<sup>rd</sup> Street
                 </S.P>
@@ -352,8 +340,8 @@ const Policy = () => {
                 <S.P>OR</S.P>
                 <br />
                 Email Us:
-                <S.A href="mailto:aida@fullspectrumprocessing.com">
-                  <abbr title="Federal Recovery Operations">FRO</abbr>
+                <S.A href="mailto:info@shprocessing.com">
+                  Stone Harbor Processing
                 </S.A>
               </S.Address>
             </S.P>
