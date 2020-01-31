@@ -17,7 +17,9 @@ const Contact = () => {
         </S.ContactWrap>
         <S.ContactWrap>
           <S.H2>Address:</S.H2>
-          <S.H3>20 North 3rd Street Philadelphia, PA </S.H3>
+          <S.H3>803 S 4th Street 1st Floor</S.H3>
+          {' '}
+          <S.H3> Philadelphia, PA 19147 </S.H3>
         </S.ContactWrap>
       </S.StyledDiv>
       <S.StyledDiv>

@@ -24,7 +24,7 @@ export const Input = styled.input`
   padding: 5px;
   border-radius: 20px / 30px;
   margin: 20px 0;
-  border: 1px inset #1c317880;
+  border: 2px inset black;
   height: 30px;
   :hover {
     background: #1c317820;
@@ -38,7 +38,7 @@ export const TextArea = styled.textarea`
   border-radius: 20px / 30px;
   margin: 10px 0;
   height: 120px;
-  border: 1px inset #1c317880;
+  border: 2px inset black;
   :hover {
     background: #1c317820;
     border: 2px groove #1c3178;
@@ -54,11 +54,11 @@ export const Button = styled.button`
   font-size: 20px;
   margin: 20px 0;
   border-radius: 20px / 30px;
-  border: 3px outset #1c317880;
+  border: 3px outset black;
   height: 30px;
   width: 50%;
   align-self: center;
   :hover {
-    background: green;
+    background: #e5c277;
   }
 `;

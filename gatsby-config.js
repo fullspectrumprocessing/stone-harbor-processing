@@ -22,6 +22,12 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-styled-components`,
+      options: {
+        displayName: true,
+      },
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: siteConfig.siteTitle,
@@ -40,7 +46,6 @@ module.exports = {
       },
     },
 
-    `gatsby-plugin-offline`,
     `gatsby-transformer-json`,
     `gatsby-transformer-remark`,
     `gatsby-plugin-eslint`,
@@ -63,5 +68,6 @@ module.exports = {
         },
       },
     },
+    `gatsby-plugin-offline`,
   ],
 };

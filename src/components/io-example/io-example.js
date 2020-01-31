@@ -1,12 +1,6 @@
 import React from 'react';
 import IO from 'components/io';
-import {
-  Container,
-  StyledImg,
-  H3,
-  StyledLink,
-  FooterNav,
-} from './io-example.css';
+import { Container, StyledLink, FooterNav } from './io-example.css';
 import { P } from '../../styledComps';
 import { OutboundLink } from 'gatsby-plugin-google-analytics';
 
@@ -18,18 +12,22 @@ const IOExample = () => (
   <IO rootMargin="-50px">
     {({ isVisible }) => (
       <Container isVisible={isVisible}>
-        <H3>We Accept</H3>
+        {/* <H3>We Accept</H3>
         <OutboundLink href="https://www.merchantequip.com/information-center/credit-card-logos/">
           <StyledImg
             src="https://www.merchantequip.com/image/?logos=v|m|a|d|ec&height=64"
             alt="Merchant Equipment Store Credit Card Logos"
           />
-        </OutboundLink>
-        <P style={{ color: '#C21B34', fontWeight: '800' }}>
-          Site Built by{' '}
+        </OutboundLink> */}
+        <P style={{ color: '#e5c277', fontWeight: '800' }}>
+          Site Built by {''}
           <abbr title="Full Spectrum Processing">
             <OutboundLink
-              style={{ color: '#C21B34', fontWeight: '800' }}
+              style={{
+                color: '#e5c277',
+                fontWeight: '800',
+                textDecoration: 'none',
+              }}
               href="https://fullspectrumprocessing.com"
             >
               FSP

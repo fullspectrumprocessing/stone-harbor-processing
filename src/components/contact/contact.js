@@ -41,7 +41,10 @@ const ContactForm = () => {
     <>
       <FormWrapper>
         <H2 style={{ marginBottom: '50px' }}>Contact Us</H2>
-        <P>Fill out the form below and send us a message.</P>
+        <P>
+          Please, complete the contact section below for one of our reps to
+          contact you directly.
+        </P>
         <StyledForm
           name="contact"
           method="post"

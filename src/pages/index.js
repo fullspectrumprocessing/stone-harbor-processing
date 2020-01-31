@@ -5,9 +5,8 @@ import Layout from 'components/layout';
 // import Title from 'components/title';
 import Img from 'gatsby-image';
 import styled from 'styled-components';
-import { Link } from 'gatsby';
 import Head from 'components/head';
-import { graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 
 const StyledImg = styled(Img)`
   // display: flex;
@@ -49,7 +48,7 @@ const HeaderText = styled.h1`
 `;
 const Wrapper = styled.figure`
   display: block;
-  position: relative;
+  // position: relative;
   justify-content: center;
   // margin: 5% 10%;
   margin: 0px;
@@ -94,13 +93,17 @@ const Button = styled.button`
   border-radius: 2px;
 `;
 
+const StyledLink = styled(Link)`
+  text-decoration: none;
+`;
+
 const Index = ({ data }) => (
   <Layout>
     <Head pageTitle={data.homeJson.title} />
 
     <Wrapper>
       <StyledImg fluid={data.homeJson.gallery[5].image.childImageSharp.fluid} />
-      <Overlay></Overlay>
+      {/* <Overlay></Overlay> */}
       <HeroTextDiv>
         <HeaderText>
           Versatile Point-Of-Sale Systems that have flexible options, and
@@ -117,9 +120,9 @@ const Index = ({ data }) => (
           section below for one of our reps to contact you directly. */}
           {/* {data.homeJson.content.childMarkdownRemark.rawMarkdownBody} */}
         </P>
-        <Link to="/contact">
-          <Button>Contact a Sales Rep</Button>
-        </Link>
+        <StyledLink to="/contact">
+          <Button>Contact a Sales Representative</Button>
+        </StyledLink>
       </Div>
     </Wrapper>
   </Layout>

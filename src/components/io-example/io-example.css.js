@@ -5,14 +5,11 @@ import { Link } from 'gatsby';
 
 export const Container = styled.div`
   padding: 4rem 0;
-  margin: 4rem 0 0 0;
-  // border-radius: 10px;
   position: relative;
   text-align: center;
-  color: #fff;
   transition: background-color 0.3s ease;
 
-  background-color: ${({ isVisible }) => (isVisible ? accent : ' #fff')};
+  background-color: ${({ isVisible }) => (isVisible ? accent : ' black')};
 `;
 
 export const StyledImg = styled.img`
@@ -64,6 +61,7 @@ export const FooterNav = styled.nav`
 export const StyledLink = styled(Link)`
   margin-right: 10px;
   margin-left: 10px;
+  color: #e5c277;
   :hover {
     border-bottom: 2px grey solid;
   }
