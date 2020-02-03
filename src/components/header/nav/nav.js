@@ -9,7 +9,7 @@ const Nav = () => (
         {/* <StyledLink to="/about">About</StyledLink>{' '} */}
         <StyledLink to="/contact">Contact</StyledLink>{' '}
         {/* <StyledLink to="/terms">Terms and Conditions</StyledLink> */}
-        <StyledLink to="/policy">Our Policy</StyledLink>
+        {/* <StyledLink to="/policy">Our Policy</StyledLink> */}
       </li>
     </ul>
   </Container>

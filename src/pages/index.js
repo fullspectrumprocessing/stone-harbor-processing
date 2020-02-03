@@ -95,7 +95,7 @@ const Button = styled.button`
   &:hover {
     background: black;
     color: #e5c277;
-    border: 2px solid  #e5c277;
+    border: 2px solid #e5c277;
   }
 `;
 
@@ -112,8 +112,8 @@ const Index = ({ data }) => (
       <Overlay></Overlay>
       <HeroTextDiv>
         <HeaderText>
-          Versatile Point-Of-Sale Systems that have flexible options, and
-          pricing, that meet all of your business needs.{' '}
+          Versatile Point-Of‑Sale Systems with flexible options and pricing to
+          meet all of your business needs.{' '}
         </HeaderText>
       </HeroTextDiv>
       <Div>
