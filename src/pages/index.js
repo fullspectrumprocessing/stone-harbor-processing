@@ -102,7 +102,7 @@ const Button = styled.button`
 const StyledLink = styled(Link)`
   text-decoration: none;
 `;
-
+// test
 const Index = ({ data }) => (
   <Layout>
     <Head pageTitle={data.homeJson.title} />
