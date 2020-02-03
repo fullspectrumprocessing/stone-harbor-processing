@@ -14,6 +14,7 @@ export const H1 = styled.h1`
 export const H2 = styled.h2`
   font-size: 25px;
   font-weight: 400;
+  display: block;
   text-shadow: 0.5px 1px 1px grey;
   margin-bottom: 10px;
 `;
@@ -36,7 +37,7 @@ export const BDI = styled.bdi`
   margin-right: 5px;
 `;
 export const StyledDiv = styled.section`
-  display: flex;
+  // display: flex;
   width: 75%;
   flex-direction: row;
   align-content: center;

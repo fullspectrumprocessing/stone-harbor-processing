@@ -62,6 +62,7 @@ export const StyledLink = styled(Link)`
   margin-right: 10px;
   margin-left: 10px;
   color: #e5c277;
+  text-decoration: none;
   :hover {
     border-bottom: 2px grey solid;
   }
