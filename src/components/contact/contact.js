@@ -1,5 +1,5 @@
 import React, { useReducer } from 'react';
-import { navigate } from 'gatsby-link';
+import { navigate } from 'gatsby';
 import {
   FormWrapper,
   StyledForm,

@@ -95,7 +95,7 @@ const Button = styled.button`
   &:hover {
     background: black;
     color: #e5c277;
-    border: 2px solid #e5c277;
+    border: 2px solid  #e5c277;
   }
 `;
 
@@ -108,7 +108,7 @@ const Index = ({ data }) => (
     <Head pageTitle={data.homeJson.title} />
 
     <Wrapper>
-      <StyledImg fluid={data.homeJson.gallery[5].image.childImageSharp.fluid} />
+      <StyledImg fluid={data.homeJson.gallery[2].image.childImageSharp.fluid} />
       <Overlay></Overlay>
       <HeroTextDiv>
         <HeaderText>

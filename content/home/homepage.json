@@ -2,35 +2,23 @@
   "title": "Home",
   "content": "intro.md",
   "logo": {
-    "image": "../images/gallery/SHPLogo.png"
+    "image": "../images/gallery/shpLogo.png"
   },
-  "gallery": [{
-    "title": "React Context",
-    "copy": "For global styles.",
-    "image": "../images/gallery/react-context.jpg"
-  },
-  {
-    "title": "Page Transitions",
-    "copy": "Component-based for easy usage.",
-    "image": "../images/gallery/page-transitions.jpg"
-  },
-  {
-    "title": "Intersection Observer",
-    "copy": "Including a polyfill for Safari.",
-    "image": "../images/gallery/intersection-observer.jpg"
-  },
-  {
-        "title": "Mini Logo",
-        "image": "../images/gallery/miniLogo.png"
-  },
-  {
-        "title": "Full Logo",
-        "image": "../images/gallery/icon.png"
-  },
-  {
-    "title": "Black and White Bank",
-    "image": "../images/gallery/POS.jpg"
-  }
-
-]
+  "gallery": [
+    {
+      "title": "React Context",
+      "copy": "For global styles.",
+      "image": "../images/gallery/react-context.jpg"
+    },
+    {
+      "title": "Page Transitions",
+      "copy": "Component-based for easy usage.",
+      "image": "../images/gallery/page-transitions.jpg"
+    },
+    {
+      "title": "Intersection Observer",
+      "copy": "Including a polyfill for Safari.",
+      "image": "../images/gallery/pos.jpg"
+    }
+  ]
 }

@@ -28,7 +28,9 @@ const IOExample = () => (
                 fontWeight: '800',
                 textDecoration: 'none',
               }}
-              href="https://fullspectrumprocessing.com"
+              href="http://fullspectrumprocessing.com"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               FSP
             </OutboundLink>
